@@ -1,10 +1,10 @@
 <?
-$MESS["TPL_NO_DEBTORS"] = "Â äàíèé ÷àñ áîðæíèê³â íåìàº.";
-$MESS["TPL_CHOOSE_TSZH"] = "Äëÿ ïåðåãëÿäó áîðæíèê³â ö³êàâèòü Âàñ îðãàí³çàö³¿ ïðîéä³òü çà â³äïîâ³äíèì ïîñèëàííÿì";
-$MESS["TPL_ORG_TITLE"] = "Ñïèñîê áîðæíèê³â #TSZH_NAME#";
-$MESS["TPL_FILTER_HOUSES"] = "Äîìà:";
-$MESS["TPL_FILTER_FLATS"] = "Êâàðòèðè:";
-$MESS["TPL_FILTER_ALL_HOUSES"] = "Âñ³ áóäèíêè";
-$MESS["TPL_FILTER_BUTTON_SEARCH"] = "Ïîøóê";
-$MESS["TPL_FILTER_BUTTON_RESET"] = "Ñêèíóòè";
+$MESS["TPL_NO_DEBTORS"] = "Ð’ Ð´Ð°Ð½Ð¸Ð¹ Ñ‡Ð°Ñ Ð±Ð¾Ñ€Ð¶Ð½Ð¸ÐºÑ–Ð² Ð½ÐµÐ¼Ð°Ñ”.";
+$MESS["TPL_CHOOSE_TSZH"] = "Ð”Ð»Ñ Ð¿ÐµÑ€ÐµÐ³Ð»ÑÐ´Ñƒ Ð±Ð¾Ñ€Ð¶Ð½Ð¸ÐºÑ–Ð² Ñ†Ñ–ÐºÐ°Ð²Ð¸Ñ‚ÑŒ Ð’Ð°Ñ Ð¾Ñ€Ð³Ð°Ð½Ñ–Ð·Ð°Ñ†Ñ–Ñ— Ð¿Ñ€Ð¾Ð¹Ð´Ñ–Ñ‚ÑŒ Ð·Ð° Ð²Ñ–Ð´Ð¿Ð¾Ð²Ñ–Ð´Ð½Ð¸Ð¼ Ð¿Ð¾ÑÐ¸Ð»Ð°Ð½Ð½ÑÐ¼";
+$MESS["TPL_ORG_TITLE"] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº Ð±Ð¾Ñ€Ð¶Ð½Ð¸ÐºÑ–Ð² #TSZH_NAME#";
+$MESS["TPL_FILTER_HOUSES"] = "Ð”Ð¾Ð¼Ð°:";
+$MESS["TPL_FILTER_FLATS"] = "ÐšÐ²Ð°Ñ€Ñ‚Ð¸Ñ€Ð¸:";
+$MESS["TPL_FILTER_ALL_HOUSES"] = "Ð’ÑÑ– Ð±ÑƒÐ´Ð¸Ð½ÐºÐ¸";
+$MESS["TPL_FILTER_BUTTON_SEARCH"] = "ÐŸÐ¾ÑˆÑƒÐº";
+$MESS["TPL_FILTER_BUTTON_RESET"] = "Ð¡ÐºÐ¸Ð½ÑƒÑ‚Ð¸";
 ?>

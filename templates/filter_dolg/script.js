@@ -15,7 +15,7 @@ $(document).ready(function () {
 
 $(document).ready(function () {
     $('.js-select2').select2({
-        placeholder: "Поиск по квартирам",
+        placeholder: "РџРѕРёСЃРє РїРѕ РєРІР°СЂС‚РёСЂР°Рј",
         maximumSelectionLength: 2,
         language: "ru"
     });
@@ -34,7 +34,7 @@ $(document).ready(function () {
 });
 
 function funonload() {
-    document.querySelector('.select2-selection__placeholder').innerText = 'Поиск по адресу';
+    document.querySelector('.select2-selection__placeholder').innerText = 'РџРѕРёСЃРє РїРѕ Р°РґСЂРµСЃСѓ';
 }
 
 window.onload = funonload;

@@ -25,7 +25,7 @@ function flatList($list)
     $flats = [];
     foreach ($list as $flat) {
         if (!array_key_exists($flat['HOUSE_ID'], $flats)) {
-            $flats[$flat['HOUSE_ID']] = [0 => 'Все квартиры'];
+            $flats[$flat['HOUSE_ID']] = [0 => 'Р’СЃРµ РєРІР°СЂС‚РёСЂС‹'];
         }
         $flats[$flat['HOUSE_ID']][$flat['ACCOUNT_ID']] = $flat['FLAT_ABBR'];
     }

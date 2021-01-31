@@ -6,7 +6,6 @@ $this->setFrameMode(true);
 
 Asset::getInstance()->addJs($componentPath . "/templates/filter_dolg/select2/select2.min.js");
 Asset::getInstance()->addJs($componentPath . "/templates/filter_dolg/select2/ru.js");
-//Asset::getInstance()->addJs($componentPath . "/templates/filter_dolg/select2/select2.css");
 
 $arItems = $arResult["ACCOUNTS"];
 $arFields = $arResult["FIELDS"];

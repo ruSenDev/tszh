@@ -11,11 +11,9 @@ $(document).ready(function () {
     }).hide();
 });
 
-
-
 $(document).ready(function () {
     $('.js-select2').select2({
-        placeholder: "РџРѕРёСЃРє РїРѕ РєРІР°СЂС‚РёСЂР°Рј",
+        placeholder: "Поиск по квартирам",
         maximumSelectionLength: 2,
         language: "ru"
     });
@@ -34,7 +32,7 @@ $(document).ready(function () {
 });
 
 function funonload() {
-    document.querySelector('.select2-selection__placeholder').innerText = 'РџРѕРёСЃРє РїРѕ Р°РґСЂРµСЃСѓ';
+    document.querySelector('.select2-selection__placeholder').innerText = 'Поиск по адресу';
 }
 
 window.onload = funonload;
